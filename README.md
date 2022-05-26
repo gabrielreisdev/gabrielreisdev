@@ -22,8 +22,10 @@
 </div>
   <br><br>
 <div>
-  <a target="_blank" href = "mailto:gabrielreistldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/gabrielreistldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrielreistldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielreistldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-gabrielreisdev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
+  
 </div>
   
   ![Snake animation](https://github.com/gabrielreisdev/gabrielreisdev/blob/output/github-contribution-grid-snake.svg)
