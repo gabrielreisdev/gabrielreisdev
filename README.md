@@ -21,6 +21,23 @@
   <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/803393871336833025/979369899296174131/unknown.png">-->
 </div>
   <br><br>
+  
+  <details>
+<summary>Lista de Cursos</summary>
+
+
+| Curso | Local | Horas |
+| :---: | :---: | :---: |
+| Redes e Manutenção de Computadores | Salvador-BA | 600 Hr |
+| Front End Development Libraries Certification  | FreeCodeCamp | 300 Hr |
+| Responsive Web Design Certification  | FreeCodeCamp | 300 Hr |
+| JavaScript Algorithms and Data Structures  | FreeCodeCamp | 300 Hr | 
+| Criação de Apps Android/iOS/Web com Flutter  | Udemy | 64 Hr |
+
+</details>
+
+ 
+  
 <div>
   <a href = "mailto:gabrielreistldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielreistldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
