@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
-- 📫 How to reach me: Contate-me através do meu email: gabrielreistldev@gmail.com
+- 📫 Contate-me através do meu email: gabrielreistldev@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrielreisdev">
