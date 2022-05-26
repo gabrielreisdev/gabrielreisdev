@@ -1,25 +1,24 @@
 ## Olá 👋 sou o Gabriel Reis 👨🏻‍💻
 
 
-
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
-- 📫 Contate-me através do meu email: gabrielreistldev@gmail.com
+
 
 <div align="center">
-  <a href="https://github.com/gabrielreisdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielreisdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreisdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/803393871336833025/979369899296174131/unknown.png">-->
 </div>
+  
   <br><br>
   
   <details>
@@ -29,10 +28,11 @@
 | Curso | Local | Horas |
 | :---: | :---: | :---: |
 | Redes e Manutenção de Computadores | Salvador-BA | 600 Hr |
+| Criação de Apps Android/iOS/Web com Flutter  | Udemy | 64 Hr |
 | Front End Development Libraries Certification  | FreeCodeCamp | 300 Hr |
 | Responsive Web Design Certification  | FreeCodeCamp | 300 Hr |
 | JavaScript Algorithms and Data Structures  | FreeCodeCamp | 300 Hr | 
-| Criação de Apps Android/iOS/Web com Flutter  | Udemy | 64 Hr |
+
 
 </details>
 
