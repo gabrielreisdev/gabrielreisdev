@@ -1,7 +1,7 @@
 ## Olá 👋 sou o Gabriel Reis 👨🏻‍💻
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Software Developer
 - 🌱 Estudando React e Vue
 
 
