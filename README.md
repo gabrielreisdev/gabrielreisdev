@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🌱 Estudando React e Vue
 
 
 <div align="center">
