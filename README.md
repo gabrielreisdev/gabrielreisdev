@@ -14,7 +14,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&username=gabrielreisdev" height="150" alt="stats graph"  />
@@ -32,12 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/gabrielreisdev/gabrielreisdev/blob/output/snake.svg" alt="Snake animation" />
-
-###
   
   <details>
 <summary>Lista de Cursos</summary>
