@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
 </div>
   
+  <br>
   <details>
 <summary>Lista de Cursos</summary>
 
@@ -44,7 +45,7 @@
 
 </details>
 
- 
+ <br>
   
 <div>
   <a href = "mailto:gabrielreistldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
