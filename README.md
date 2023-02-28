@@ -1,7 +1,7 @@
 ## Olá 👋 sou o Gabriel Reis 👨🏻‍💻
 
 
-- 🔭 Software Developer
+Front-End Developer 
 <p align="left">Hello World!!</p>
 
 ###
