@@ -17,9 +17,9 @@ Front-End Developer
 
 ###
 
-<div align="left">
+
   [![My Skills](https://skillicons.dev/icons?i=react,vue,vite,js,ts,html,css,tailwind,figma,xd,ps,flutter,node,prisma,postgres)](https://skillicons.dev)
-</div>
+
   
   <br>
   <details>
